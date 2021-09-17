@@ -1,0 +1,33 @@
+.heading
+{
+    font-size:25px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 5px white;
+    font-family: 'Satisfy', cursive;
+    color:black;
+}
+.note
+{
+    font-size:20px;
+    color:white;
+    font-weight:bold;
+    white-space:initial;
+    font-family: 'Satisfy', cursive;
+}
+.copy_right_footer{
+    position:fixed;
+    color:black;
+    bottom:0;
+    width:100%;
+    background-color:lightpink;
+    line-height:3;
+    text-align:center;
+    font-family: 'Satisfy', cursive;
+    font-size:17px;
+}
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+}
